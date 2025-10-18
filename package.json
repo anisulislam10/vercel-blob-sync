@@ -1,0 +1,16 @@
+{
+  "name": "bolb-storeage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transfer-blobs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/blob": "^2.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
