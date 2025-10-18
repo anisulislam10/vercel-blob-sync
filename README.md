@@ -26,7 +26,7 @@ Tokens with read/write permissions
 
 Clone the repo
 
-git clone [https://github.com/yourusername/vercel-blob-transfer.git](https://github.com/anisulislam10/vercel-blob-sync.git)
+git clone [https://github.com/anisulislam10/vercel-blob-sync.git](https://github.com/anisulislam10/vercel-blob-sync.git)
 cd vercel-blob-transfer
 
 
